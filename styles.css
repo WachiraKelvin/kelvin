@@ -1,0 +1,210 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: url('djjjjj.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 20px 0;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.banner {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.banner h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.banner .upcoming-dates,
+.banner .listen-music,
+.banner .about {
+    margin: 20px 0;
+}
+
+.banner .upcoming-dates h2,
+.banner .listen-music h2,
+.banner .about h2 {
+    font-size: 24px;
+}
+
+.banner .listen-music iframe {
+    width: 100%;
+    height: 150px;
+}
+
+.banner .social-media a {
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 50px 100px;
+    text-align: center;
+}
+
+.albums h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.genres button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border: none;
+    cursor: pointer;
+}
+
+.album-list img {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+
+.cta {
+    background: #f0f0f0;
+    padding: 50px 0;
+    margin: 50px 0;
+}
+
+.cta h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.cta button {
+    padding: 10px 20px;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-about,
+.footer-contact,
+.footer-social,
+.footer-music {
+    width: 20%;
+}
+
+.footer-about h2,
+.footer-contact h2,
+.footer-social h2,
+.footer-music h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.footer-social a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 5px 0;
+}
+.cu2 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.cu1 {
+    background: #000;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footerzz-content {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.footezz-section {
+    width: 23%;
+}
+.footerzz-section h3 {
+    margin-top: 0;
+}
+
+.footerzz-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footerzz-section ul li {
+    margin: 5px 0;
+}
+
+.footerzz-section ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footerzz-section input {
+    padding: 10px;
+    width: 80%;
+    box-sizing: border-box;
+}
+
+.footerzz-section button {
+    padding: 10px;
+    background: #f00;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.mainzz{
+    background-image: url(image0.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
